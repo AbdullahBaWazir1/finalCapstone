@@ -18,5 +18,5 @@ You can save it as a CSV file, naming it:
 amazon_product_reviews.csv.
 
 ## Credits:
-HyperionDev
-Kaggel
+> HyperionDev
+> Kaggel
